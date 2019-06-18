@@ -84,3 +84,19 @@ func controllerDidCompleteCheckout(_ controller: ReviewOrderViewController) {
 }
 
 ```
+
+# Great Past Talks from WWDC
+
+Designing with Animation - https://developer.apple.com/videos/play/wwdc2015/803/
+
+Implementing UI Designs in Interface Builder - https://developer.apple.com/videos/play/wwdc2015/407/
+
+Love at First Launch - https://developer.apple.com/videos/play/wwdc2017/816/
+
+Best Practices for Progress Reporting - https://developer.apple.com/videos/play/wwdc2015/232/
+
+Building Responsive and Efficient Apps with GCD - https://developer.apple.com/videos/play/wwdc2015/718/
+
+Introducing Search APIs - https://developer.apple.com/videos/play/wwdc2015/709/
+
+Protocol-Oriented Programming in Swift - https://developer.apple.com/videos/play/wwdc2015/408/
